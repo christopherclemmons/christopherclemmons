@@ -12,7 +12,7 @@ I love building saas
 - 📝 You should ALWAYS write documentation (not doing so is a sin)
 - 🛠 Time is the most valuable resource you have. 
 - 📝 It's our software, not mine (no one takes all the credit, because we're a team)
-- 📖 Share inforfmation with others (gatekeeping is rude, can't we all agree)
+- 📖 Share inforfmation with others (gatekeeping is rude and counterintuitive for every engineering team)
 
 
 ## 🛠 Tech Stack
