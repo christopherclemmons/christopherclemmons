@@ -14,7 +14,16 @@ I love building saas
 - 📖 I share my in-depth knowledge to the public.
 
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
+![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai&logoColor=white)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=sqlite&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-black?style=for-the-badge&logo=nginx&logoColor=white)
 
 🌐 Find Me Online
 Have questions or want to collaborate? Connect with me here:
