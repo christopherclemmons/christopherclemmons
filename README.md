@@ -26,6 +26,18 @@ I love building saas
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-black?style=for-the-badge&logo=nginx&logoColor=white)
 
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon Cognito](https://img.shields.io/badge/Amazon%20Cognito-8A3FFC?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon API Gateway](https://img.shields.io/badge/API%20Gateway-FB7501?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Amplify](https://img.shields.io/badge/AWS%20Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white)
+![Amazon CloudWatch](https://img.shields.io/badge/CloudWatch-6C37FF?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS IoT](https://img.shields.io/badge/AWS%20IoT-00A8E1?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon SNS](https://img.shields.io/badge/Amazon%20SNS-DE34EB?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+
 🌐 Find Me Online
 Have questions or want to collaborate? Connect with me here:
 
