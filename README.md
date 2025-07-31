@@ -1,10 +1,8 @@
 # 👽 Christopher Clemmons
-🧪☢Fullstack Engineer + Data Scientist 
-
-I'm `@christopherclemmons`, an indie hacker and business nerd with a passion for cloud computing and ai. I'm known for helping people get their ideas out to the market as fast as possible
-
+🧪☢Fullstack Engineer + Cloud Engineer
 ## About Me
-I love building saas 
+
+I'm `@christopherclemmons`, a full stack cloud engineer who has spent the last 10 years helping numerous of startups build software that makes them a lot of money. I don't cross every box on the checklist and skilled software engineers don't. I'm really good at many things but I'm very good at the things that bring buisnesses the most value witih technologies that make it happen.
 
 ## 🚀Core Values
 - 👨‍💻 I believe humans should not be forced to use crappy software
