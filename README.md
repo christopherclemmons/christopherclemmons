@@ -1,5 +1,5 @@
 # 👽 Christopher Clemmons
-🧪☢Fullstack Engineer + Cloud Engineer
+🧪☢Fullstack Cloud Engineer
 ## About Me
 
 I'm `@christopherclemmons`, a full stack cloud engineer who has spent the last 10 years helping numerous of startups build software that makes them a lot of money. I don't cross every box on the checklist and skilled software engineers don't. I'm really good at many things but I'm very good at the things that bring buisnesses the most value witih technologies that make it happen.
