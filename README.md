@@ -3,7 +3,12 @@
 ## About Me
 I am a cloud-native full stack software engineer specializing in big data and building distributed systems. I enjoy collaborating with business leaders on building software acting as money-printing machines that run autonomously.
 
-My weapons of choice are .NET, Express/Node.js, PostGreSQL, React.js, Typescript and AWS. I've worked with various frameworks and languages and contributed to raising millions in funding for startups around the USA by building software MVPs that work well and is ready when you need it.
+
+## Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,typescript,nodejs,dotnet,docker,terraform,postgres,redis,kafka,githubactions" />
+</p>
 
 ## 🚀Core Values
 - 👨‍💻 I believe humans should not be forced to use crappy software
